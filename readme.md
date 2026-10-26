@@ -1,0 +1,1 @@
+I'm tring to learn git and more
